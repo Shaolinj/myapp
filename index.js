@@ -5,7 +5,7 @@ const app = express();
 
 
 app.get("/", function(req, res){
-    res.send("Hi From Admin");
+    res.send("Hey Good GitHub");
 });
 
 
